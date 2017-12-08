@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "수정입니다.1512722207545",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "안녕하세요",
+      "author": "aaaa"
+    },
+    {
+      "title": "하하하하하",
+      "id": 4
+    },
+    {
+      "title": "하하하하하",
+      "id": 5
+    },
+    {
+      "title": "하하하하하",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
